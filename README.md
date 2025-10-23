@@ -2,7 +2,7 @@
 
 ## Summary of Contents
 
-Following is a summary of the scripts, data and other supplementary material included in this data release, organized according in directories as described.
+Following is a summary of the scripts, data and other supplementary material included in this data release, organized according to directories as described.
 
 * `fallbackrate_data` : fallback rate data for 23 stars at organized by mass and age, as follows:
  
