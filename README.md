@@ -4,7 +4,7 @@
 
 Following is a summary of the scripts, data and other supplementary material included in this data release, organized according in directories as described.
 
-* `fallback_rates` : fallback rate data for 23 stars at organized by mass and age, as follows:
+* `fallbackrate_data` : fallback rate data for 23 stars at organized by mass and age, as follows:
  
   $0.2 \leqslant M_\star/M_\odot \leqslant 0.5$: Simulations included for ZAMS (zero-age main-sequence) stage only.
   
