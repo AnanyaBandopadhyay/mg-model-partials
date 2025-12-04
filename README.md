@@ -1,4 +1,4 @@
-![[DOI](https://zenodo.org/badge/1061540709.svg)](https://doi.org/10.5281/10.5281/zenodo.17821880)
+![[DOI](https://zenodo.org/badge/1061540709.svg)](https://doi.org/10.5281/zenodo.17821880)
 
 # The Maximum Gravity Model for partial Tidal Disruption Events -- Supplementary Material
 
