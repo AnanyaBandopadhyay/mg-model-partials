@@ -1,5 +1,3 @@
-![[DOI](https://zenodo.org/badge/1061540709.svg)](https://doi.org/10.5281/zenodo.17821880)
-
 # The Maximum Gravity Model for partial Tidal Disruption Events -- Supplementary Material
 
 **Ananya Bandopadhyay<sup>1</sup>, Eric R. Coughlin<sup>1</sup>, C. J. Nixon<sup>2</sup>**
