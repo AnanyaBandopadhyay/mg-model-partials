@@ -8,7 +8,7 @@
 
 This repository is a companion data release. The preprint version of the paper is available on [arXiv](https://arxiv.org/abs/).
 
-https://zenodo.org/badge/1061540709.svg
+![zenodo](https://zenodo.org/badge/1061540709.svg)
 
 ## License
 
