@@ -1,4 +1,6 @@
-# The Maximum Gravity Model for partial Tidal Disruption Events: Mass Loss, Peak Fallback Rate and Dependence on Stellar Type
+![[DOI](https://zenodo.org/badge/1061540709.svg)](https://doi.org/10.5281/10.5281/zenodo.17821880)
+
+# The Maximum Gravity Model for partial Tidal Disruption Events -- Supplementary Material
 
 **Ananya Bandopadhyay<sup>1</sup>, Eric R. Coughlin<sup>1</sup>, C. J. Nixon<sup>2</sup>**
 
@@ -7,8 +9,6 @@
 **<sup>2</sup>School of Physics and Astronomy, Sir William Henry Bragg Building, Woodhouse Ln., University of Leeds, Leeds LS2 9JT, UK**
 
 This repository is a companion data release. The preprint version of the paper is available on [arXiv](https://arxiv.org/abs/).
-
-![zenodo](https://zenodo.org/badge/1061540709.svg)
 
 ## License
 
