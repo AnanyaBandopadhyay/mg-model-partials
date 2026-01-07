@@ -6,7 +6,7 @@
 
 **<sup>2</sup>School of Physics and Astronomy, Sir William Henry Bragg Building, Woodhouse Ln., University of Leeds, Leeds LS2 9JT, UK**
 
-This repository is a companion data release. The preprint version of the paper is available on [arXiv](https://arxiv.org/abs/).
+This repository is a companion data release. The preprint version of the paper is available on [arXiv](https://arxiv.org/abs/2601.02476). The DOI for citing the data repository is [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17822028.svg)](https://doi.org/10.5281/zenodo.17822028).
 
 ## License
 
